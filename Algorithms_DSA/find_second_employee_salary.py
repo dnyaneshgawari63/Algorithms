@@ -42,7 +42,7 @@ for city, employees in city_groups.items():
     # Select the top two employees
     top_two_employees[city] = employees[:2]
 
-# 3. Print the results
+# 3. Print the results 
 print("Top Two Highest-Paid Employees in Each City:")
 for city, employees in top_two_employees.items():
     print(f"City: {city}")

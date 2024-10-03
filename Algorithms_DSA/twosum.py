@@ -10,4 +10,4 @@ def two_sum_dict(nums, target):
 nums = [1, 2, 3, 4]
 target = 5
 result = two_sum_dict(nums, target)
-print(result)  # Output: [0, 3]
+print(result)

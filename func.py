@@ -1,4 +1,4 @@
-# def two pointer for sum of any given list array
+# def two pointer for sum of any given list 
 
 def find_pair():
     list = [1,2,3,4,5]

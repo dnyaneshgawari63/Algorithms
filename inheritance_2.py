@@ -20,7 +20,7 @@ class Division(ArithmeticOperation):
             return "Division by zero error!"
         return x / y
 
-# Example usage
+# Example
 add = Addition()
 print(f"Addition: {add.calculate(5,3)}") # Output: Addition: 8
 

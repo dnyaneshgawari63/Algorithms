@@ -1,3 +1,4 @@
+
 company = [
     {"id": 1, "city": "delhi", "salary": 45000},
     {"id": 2, "city": "mumbai", "salary": 34000},

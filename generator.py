@@ -1,5 +1,6 @@
 # In generators, we use the keywork yeild
-# its memory efficient and good when we have huge amount of dataset
+# Lazy evaluation: its memory efficient and good when we have huge amount of dataset
+
 def square_iterator(limit):
   x = 0
   while x < limit:

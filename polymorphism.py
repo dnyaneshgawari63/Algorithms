@@ -26,3 +26,4 @@ bird = Bird()
 # print result to test above code using below code line
 make_sound(cat)
 make_sound(dog)
+make_sound(bird)

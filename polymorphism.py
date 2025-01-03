@@ -1,3 +1,5 @@
+# Below code tells us the polymorphic nature of code reusability
+
 class Animal:
   def sound(self):
     pass

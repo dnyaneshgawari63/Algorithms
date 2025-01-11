@@ -3,3 +3,7 @@ def function():
   return "how is life"
   func2()
   "its sunny day"
+
+@function
+def function2():
+  return "hahaha"

@@ -5,5 +5,5 @@ def function():
   "its sunny day"
 
 @function
-def function2():
+def func2():
   return "hahaha"

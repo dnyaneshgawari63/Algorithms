@@ -7,6 +7,4 @@ def decorator(func):
     return result
   return wrapper
 
-@function
-def func2():
-  return "hahaha"
+

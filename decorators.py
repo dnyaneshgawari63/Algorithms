@@ -1,8 +1,11 @@
 # decorators are the extension to the previously written code functionality 
-def function():
-  return "how is life"
-  func2()
-  "its sunny day"
+def decorator(func):
+  def wrapper():
+    print("abc123")
+    result = func()
+    print("cde456")
+    return result
+  return wrapper
 
 @function
 def func2():

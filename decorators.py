@@ -7,4 +7,5 @@ def decorator(func):
     return result
   return wrapper
 
+@decorator
 

@@ -8,5 +8,5 @@ def decorator(func):
   return wrapper
 
 @decorator
-wrapper 
-
+def myfunc():
+  return "original value"

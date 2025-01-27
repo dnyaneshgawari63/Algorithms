@@ -1,3 +1,4 @@
 def calculation(generic):
-  def wrapper:
+  def wrapper(x, y):
+    return x ** y
   

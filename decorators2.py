@@ -4,5 +4,7 @@ def calculation(generic):
   return wrapper
 
 @calculation
-def nums(x, y):
-  return 3,5
+def nums():
+  return
+
+print(nums(3,4))

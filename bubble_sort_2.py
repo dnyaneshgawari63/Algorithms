@@ -1,5 +1,8 @@
 # simplified version
 
 class Sort:
-  def __init__(list):
+  def __init__(self, list):
+    
+    self.list = list
+    n = len(self.list)
     

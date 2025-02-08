@@ -1,4 +1,5 @@
 # simplified version
-def bubble(array):
-  n = len(array)
-  def warraper():
+
+class Sort:
+  def __init__(list):
+    

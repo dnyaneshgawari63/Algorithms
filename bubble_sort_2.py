@@ -5,5 +5,5 @@ class Sort:
     self.list = list
     n = len(self.list)
     swap = 0
-
+    for x in len(range(n-1):
 

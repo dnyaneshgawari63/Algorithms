@@ -1,8 +1,6 @@
-# Here we add the lowest value before the greter value in the array
+# Here we add the lowest value before the greter value in 
 
-array = [12,43,2,44,5,6,7,53,3,6,6]
-
-def select_sort():
+def select_sort(array):
   n = len(array)
   for x in range(n-1):
     min_index = x
@@ -13,4 +11,4 @@ def select_sort():
     array.insert(x, min_value)
   return array
 
-select_sort()
+select_sort([12,455,43,2,44,56])

@@ -7,5 +7,6 @@ def insertsort(array):
       if array[y] > current_val:
         insert_ind = y
     array.insert(insert_ind, current_val)
+    return array
 
-print(array)
+insertsort(array)

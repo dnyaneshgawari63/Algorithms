@@ -1,5 +1,3 @@
-# not cleaned fix tomorrow
-
 def insertsort(array):
   n = len(array)
   for x in range(1, n):

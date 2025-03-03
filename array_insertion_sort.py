@@ -9,4 +9,6 @@ def insertsort(array):
     array.insert(insert_ind, current_val)
     return array
 
+
+array = [123,324,35,56,5324,42,6,56,54324,43,45]
 insertsort(array)

@@ -9,4 +9,7 @@ def add(a,b):
 def subs(a,b):
   return a - b
 
+result = add(23,34)
+result2 = subs(123-10)
+
 

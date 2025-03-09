@@ -12,4 +12,5 @@ class Calc:
 result = Calc.add(23,34)
 result2 = Calc.subs(123-10)
 
+print(result, result2)
 

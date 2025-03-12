@@ -8,4 +8,7 @@ print(result)
 
 # 2d
 
-list2 = [[1,2,3],4,5]
+list2 = [345,35,2,234,34,3,2]
+
+result = np.array([list, list2])
+print(result)

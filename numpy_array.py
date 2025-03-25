@@ -6,7 +6,7 @@ list = [1,2,3,4,5,6,7]
 result = np.array(list)
 print(result)
 
-# 2d
+# 2d array visualized
 
 list2 = [345,35,2,234,34,3,2]
 

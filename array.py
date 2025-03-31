@@ -1,7 +1,4 @@
 # finding an element in array
-
-
-
 def find(array, target):
     for x in range(len(array)):
         if array[x] == target:

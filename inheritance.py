@@ -1,3 +1,5 @@
+#here parent class and method remainssame throughout code 
+
 #parent class
 
 class Animal:

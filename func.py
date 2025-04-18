@@ -18,3 +18,5 @@ def find_pair():
 
 find_pair()
 
+
+# above problem using class

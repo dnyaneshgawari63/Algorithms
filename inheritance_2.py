@@ -28,4 +28,4 @@ mult = Multiplication()
 print(f"Multiplication: {mult.calculate(10, 2)}") # Output: Multiplication: 20
 
 div = Division()
-print(f"{div.calculate(34,4)}")
+print(f"division: {div.calculate(34,4)}")

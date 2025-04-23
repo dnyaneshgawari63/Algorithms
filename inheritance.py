@@ -8,6 +8,8 @@ class Animal:
 
     def speak(self):
         print("typical their sound")
+
+
 #child class
 class Dog(Animal):
     def speak(self):
@@ -22,4 +24,4 @@ class Cat(Animal):
 animals = [Dog("Ramu"), Cat("Chinu")]
 
 for animal in animals:
-    animal.speak()
+    animal.speak() # child class inherits parent calss properties here

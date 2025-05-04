@@ -6,5 +6,6 @@ class Surname:
     self.last = last
 
 # class instantiation
+  def fullname():
 
 # class class call

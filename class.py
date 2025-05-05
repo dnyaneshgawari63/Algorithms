@@ -7,5 +7,7 @@ class Surname:
 
 # class instantiation
   def fullname():
+    return dan
 
 # class class call
+

@@ -6,7 +6,7 @@ class Surname:
     self.last = last
 
 # class instantiation
-  def fullname():
+  def fullname(self):
     return dan
 
 # class class call

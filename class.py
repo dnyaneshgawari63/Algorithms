@@ -11,3 +11,5 @@ class Surname:
 
 # class class call
 
+surname = surname()
+

@@ -1,4 +1,4 @@
-# here we
+# here we add at the rate
 
 def calculation(anything):
   def wrapper(x, y):

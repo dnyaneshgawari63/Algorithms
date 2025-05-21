@@ -10,3 +10,4 @@ def nums(): # decorator takes wrapper function as argument
   return
 
 print(nums(3,4))  #it prints the result from functionality assigned to variables in main function 
+print(nums(2.3, 4))

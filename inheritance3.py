@@ -27,14 +27,4 @@ class Tesla(Car):
 toyota = Toyota("Toyota", "Prius", 2023)
 toyota.start()  # Output: The 2023 Toyota Prius starts.
 toyota.hybrid_system()  # Output: The Toyota Prius has a hybrid system.
-toyota.describe() # Output: This is a 2023 Toyota Prius.
-
-ford = Ford("Ford", "F-150", 2024)
-ford.start()  # Output: The 2024 Ford F-150 starts.
-ford.truck_mode()  # Output: The Ford F-150 can be used in truck mode.
-ford.describe() # Output: This is a 2024 Ford F-150.
-
-tesla = Tesla("Tesla", "Model S", 2022)
-tesla.start()  # Output: The 2022 Tesla Model S starts.
-tesla.autopilot()  # Output: The Tesla Model S has autopilot capabilities.
-tesla.describe() # Output: This is a 2022 Tesla Model S.
+toyota.describe()

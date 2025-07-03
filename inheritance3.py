@@ -20,12 +20,12 @@ class Ford(Car):
 
 class Tesla(Car):
     def autopilot(self):
-        print(f"The {self.brand} {self.model} has autopilot capabilities.")
+        print(self.brand}, self.model)
 
 
 # Example usage
 toyota = Toyota("Toyota", "Prius", 2023)
-toyota.start()  # Output: The 2023 Toyota Prius starts.
+toyota.start()
 toyota.hybrid_system()  
 toyota.describe()
 

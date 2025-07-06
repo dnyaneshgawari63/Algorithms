@@ -16,7 +16,7 @@ class Toyota(Car):
 
 class Ford(Car):
     def truck_mode(self):
-        print(f"The {self.brand} {self.model} can be used in truck mode.")
+        print( )
 
 class Tesla(Car):
     def autopilot(self):

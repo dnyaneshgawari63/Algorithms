@@ -12,7 +12,7 @@ class Car:
 
 class Toyota(Car):
     def hybrid_system(self):
-        print(f"The {self.brand} {self.model} has a hybrid system.")
+        print({self.brand} {self.model}.)
 
 class Ford(Car):
     def truck_mode(self):

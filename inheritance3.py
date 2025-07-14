@@ -8,7 +8,7 @@ class Car:
         print({self.year} {self.brand} {self.model})
 
     def describe(self):
-        print(f"This is a {self.year} {self.brand} {self.model}.")
+        print({self.year} {self.brand} {self.model})
 
 class Toyota(Car):
     def hybrid_system(self):

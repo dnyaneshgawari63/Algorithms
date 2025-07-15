@@ -1,31 +1,21 @@
-class Car:
-    def __init__(self, brand, model, year):
-        self.brand = brand
-        self.model = model
-        self.year = year
+class Animal:
+    def speak(self):
+        pass
 
-    def start(self):
-        print({self.year} {self.brand} {self.model})
+class Dog(Animal):
+    def speak(self):
+        return "Woof!"
 
-    def describe(self):
-        print({self.year} {self.brand} {self.model})
+class Cat(Animal):
+    def speak(self):
+        return "Meow!"
 
-class Toyota(Car):
-    def hybrid_system(self):
-        print({self.brand} {self.model}.)
+# Polymorphism in action
+def animal_sound(animal):
+    print(animal.speak())
 
-class Ford(Car):
-    def truck_mode(self):
-        print( )
+dog = Dog()
+cat = Cat()
 
-class Tesla(Car):
-    def autopilot(self):
-        print(self.brand}, self.model)
-
-
-# Example usage
-toyota = Toyota("Toyota", "Prius", 2023)
-toyota.start()
-toyota.hybrid_system()  
-toyota.describe()
-
+animal_sound(dog)  # Output: Woof!
+animal_sound(cat)

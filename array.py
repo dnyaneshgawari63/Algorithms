@@ -10,6 +10,8 @@ target = 14
 print(find(array, target))
 
 # example 2
+class Findfreq:
+    def __init__(self):
 
 
 

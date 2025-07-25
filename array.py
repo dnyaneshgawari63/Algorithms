@@ -13,6 +13,7 @@ print(find(array, target))
 class Findfreq:
     def __init__(self):
         self.left = Left
+        self.righ = right
 
 
 

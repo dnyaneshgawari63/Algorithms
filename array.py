@@ -16,7 +16,7 @@ class Findfreq:
         self.righ = right
 
     for left , right in array:
-        if 
+        if left[0]
 
 
 

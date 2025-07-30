@@ -5,7 +5,7 @@ def find(array, target):
             return x
     return -1
 
-array = [10,11,12,13,14,15,16,17,18,19,20] 
+# array = [10,11,12,13,14,15,16,17,18,19,20] 
 target = 14
 print(find(array, target))
 
@@ -13,7 +13,8 @@ print(find(array, target))
 def reverse(aaa):
     aaa.sort()
     return aaa[::-1]
-array = [10,1111,12,1332,14,150,16,17,180,19,220]
+# arr = [10,1111,12,1332,14,150,16,17,14, 180,19,220]
+reverse(arr)
 
 
 

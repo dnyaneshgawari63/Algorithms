@@ -17,8 +17,14 @@ def reverse(aaa):
 reverse(arr)
 
 # example 3
+def duplics(aaa):
+    dups ={}
+    for x in aaa:
+        if aaa.count(x) > 1:
+            dups[x] = dups.count(x)
 
-
+#aaa= [11,3,5,3,6,7,3,8]
+duplics(aaa)
 
 
 

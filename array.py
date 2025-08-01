@@ -16,6 +16,7 @@ def reverse(aaa):
 # arr = [10,1111,12,1332,14,150,16,17,14, 180,19,220]
 reverse(arr)
 
+# example 3
 
 
 

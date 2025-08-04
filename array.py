@@ -26,5 +26,7 @@ def duplics(aaa):
 #aaa= [11,3,5,3,6,7,3,8]
 duplics(aaa)
 
+# example 4
+
 
 

@@ -27,6 +27,8 @@ def duplics(aaa):
 duplics(aaa)
 
 # example 4
-
+#list comprehension
+aaa= [11,3,5,3,6,7,3,8]
+[x for x in aaa if aaa.count(x) > 1]
 
 

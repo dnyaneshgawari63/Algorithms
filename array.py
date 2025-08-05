@@ -1,4 +1,4 @@
-# finding an element in array
+8# finding an element in array
 def find(array, target):
     for x in range(len(array)):
         if array[x] == target:
@@ -30,5 +30,8 @@ duplics(aaa)
 #list comprehension
 aaa= [11,3,5,3,6,7,3,8]
 [x for x in aaa if aaa.count(x) > 1]
+
+# example 5
+
 
 

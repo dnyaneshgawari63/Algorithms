@@ -32,6 +32,9 @@ aaa= [11,3,5,3,6,7,3,8]
 [x for x in aaa if aaa.count(x) > 1]
 
 # example 5
-
+aaa= [11,3,5,3,6,7,3,8]
+aaa.sort()
+set(aaa)
+aaa[:-2]
 
 

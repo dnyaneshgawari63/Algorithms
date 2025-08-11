@@ -43,4 +43,6 @@ median = aaa.sort()
 median = len(aaa)/n
 median 
 
+ example 
+
 

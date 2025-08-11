@@ -40,9 +40,13 @@ aaa[:-2]
 # Example 6
 aaa = [3,56,3,5,23,8]
 median = aaa.sort()
-median = len(aaa)/n
+if len(aaa)%2 != 0:
+    median = len(aaa)/n
+
+else:
+    median =(len(aaa)+1)/n
 median 
 
- example 
+
 
 

@@ -45,7 +45,9 @@ if len(aaa)%2 != 0:
 
 else:
     median =(len(aaa)+1)/n
-median 
+median
+
+
 
 
 

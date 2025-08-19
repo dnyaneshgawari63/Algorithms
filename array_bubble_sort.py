@@ -12,3 +12,4 @@ for x in range(n-1):
       break
 
 print(array)
+

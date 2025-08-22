@@ -47,5 +47,8 @@ else:
     median =(len(aaa)+1)/n
 median
 
+fgg
+
+
 
 

@@ -45,5 +45,3 @@ if len(aaa)%2 != 0:
     median = len(aaa)/n
 else:
     median =(len(aaa)+1) / n
-
-

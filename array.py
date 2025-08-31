@@ -37,7 +37,7 @@ aaa.sort()
 set(aaa)
 aaa[:-2]
 
-# Example 6
+# Example 6 Find median
 
 aaa = [3,56,3,5,23,8]
 n = len(aaa)

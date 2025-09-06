@@ -41,3 +41,5 @@ aaa[:-2]
 
 aaa = [3,56,3,5,23,8]
 n = len(aaa)
+if median = aaa[n] % 2:
+

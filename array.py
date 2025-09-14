@@ -41,9 +41,9 @@ aaa[:-2]
 
 aaa = [3,56,3,5,23,8]
 
-for x in len(a):
-    if x %2 = 0:
-        x
-    
+aaa.sort()
+n = len(aaa)
+middle_number = n //2
+
 
 

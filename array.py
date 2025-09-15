@@ -51,5 +51,7 @@ else:
     median = aaa[middle_num]
     
 
+# Example 7 
+# replace every second item in an array
 
 

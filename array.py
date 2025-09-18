@@ -55,5 +55,8 @@ else:
 # replace every third item in an array with first one
 
 a = [1,2,3,4,5,6,7,8,9,10]
+for x in range(2, len(a), 3):
+    a[x] = a[x-2] # replace the current element with the element two position before it
+
 
 

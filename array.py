@@ -52,6 +52,8 @@ else:
     
 
 # Example 7 
-# replace every second item in an array
+# replace every third item in an array with first one
+
+a = [1,2,3,4,5,6,7,8,9,10]
 
 

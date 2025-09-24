@@ -67,4 +67,5 @@ for x in range(1, len(a), 2):
     a[x] = a[x+2]
 a
 
+# output:
 

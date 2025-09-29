@@ -64,9 +64,6 @@ print(a)
 # Example 8
 # out of index error handeling 
 a = [1,2,3,4,5,6,7,8,9,10]
-# Example 8
-# out of index error handeling 
-a = [1,2,3,4,5,6,7,8,9,10]
 try:
     for x in range(1, len(a), 2):
         a[x] = a[x+2]

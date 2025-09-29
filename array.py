@@ -66,6 +66,7 @@ print(a)
 a = [1,2,3,4,5,6,7,8,9,10]
 for x in range(1, len(a), 2):
     a[x] = a[x+2]
-a
+except Exception as e:
+
 # 
 

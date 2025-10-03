@@ -69,3 +69,5 @@ try:
         a[x] = a[x+2]
 except Exception as e:
     e
+
+# exampple

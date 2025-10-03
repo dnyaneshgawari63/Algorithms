@@ -70,4 +70,10 @@ try:
 except Exception as e:
     e
 
-# exampple
+# Example 9 
+# String array
+
+abc = "Here is a better version of a software, we found"
+abc = abc + " named elephant"
+abc
+

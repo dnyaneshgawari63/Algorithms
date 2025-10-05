@@ -75,5 +75,5 @@ except Exception as e:
 
 abc = "Here is a better version of a software, we found"
 abc = abc + " named elephant"
-abc
+abc[4:25]
 

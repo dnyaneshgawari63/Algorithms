@@ -79,3 +79,5 @@ abc[4:25]
 
 #list array append method
 abc = []
+x = 12
+abc.append(x)

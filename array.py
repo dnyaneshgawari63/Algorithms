@@ -81,3 +81,5 @@ abc[4:25]
 abc = []
 x = 12
 abc.append(x)
+
+# Dictionary methods

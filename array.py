@@ -86,4 +86,5 @@ abc.append(x)
 abc = {}
 abc["Name"] = "Bhalu" # name becomes key and Bhalu is value in abc dictionary form
 abc[("1,2,3")] = 1000 # In dictionary only tuple can add multiple keys or values as tuple can notbe modified
+abc
 

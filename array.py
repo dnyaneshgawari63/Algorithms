@@ -89,7 +89,6 @@ abc[("1,2,3")] = 1000 # In dictionary only tuple can add multiple keys or values
 abc
 
 # Set
-
 a = ()
 a = 12
-
+a

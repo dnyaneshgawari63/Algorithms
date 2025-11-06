@@ -88,3 +88,8 @@ abc["Name"] = "Bhalu" # name becomes key and Bhalu is value in abc dictionary fo
 abc[("1,2,3")] = 1000 # In dictionary only tuple can add multiple keys or values as tuple can notbe modified
 abc
 
+# Set
+
+a = ()
+a = 12
+

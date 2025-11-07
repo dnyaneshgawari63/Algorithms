@@ -92,3 +92,6 @@ abc
 a = {}
 a.add(12)
 a
+
+
+# set methods

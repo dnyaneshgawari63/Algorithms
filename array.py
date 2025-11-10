@@ -99,3 +99,6 @@ a
 a  = {12,234,23,42,23,34}
 a.pop()
 a
+
+# tuple methods
+a = ()

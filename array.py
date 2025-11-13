@@ -101,6 +101,8 @@ a.pop()
 a
 
 # tuple methods
+b = (123,342,234,23,12 "doooodooo")
 a = (1,23,4,56,67,566)
 a = a + 400
+a = a + b
 a

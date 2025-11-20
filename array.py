@@ -94,11 +94,10 @@ a.add(12)
 a
 
 # set methods
-a  = {12,234,23,42,23,34}
+a  = {12,"banana", 234,23,42,23,34}
 a.pop()
-a
+a.remove(234)
 
-# set method
 
 
 # tuple methods

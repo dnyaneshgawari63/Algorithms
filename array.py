@@ -93,12 +93,13 @@ a = {}
 a.add(12)
 a
 
-
 # set methods
-
 a  = {12,234,23,42,23,34}
 a.pop()
 a
+
+# set method
+
 
 # tuple methods
 b = (123,342,234,23,12 "doooodooo")
@@ -109,5 +110,4 @@ a.add(111)
 a.remove(4)
 a
 
-# Set methods
 

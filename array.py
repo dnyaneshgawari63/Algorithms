@@ -110,3 +110,8 @@ a.remove(4)
 a
 
 # dictionary method
+a {nums: 1123,
+   days:1234}
+
+a.clear()
+a

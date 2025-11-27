@@ -115,3 +115,5 @@ a {nums: 1123,
 
 a.clear()
 a
+
+# dict method

@@ -117,6 +117,6 @@ a.clear()
 a
 
 # dict method
-a.pop()
+a.pop(days)
 a
 

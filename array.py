@@ -117,3 +117,6 @@ a.clear()
 a
 
 # dict method
+a.pop()
+a
+

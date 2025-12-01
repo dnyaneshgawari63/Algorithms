@@ -120,3 +120,5 @@ a
 a.pop(days)
 a
 
+
+#dict meth

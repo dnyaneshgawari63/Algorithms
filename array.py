@@ -122,4 +122,6 @@ a
 
 
 #dict meth
+
+a=
 a.get("nums")

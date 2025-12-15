@@ -116,13 +116,10 @@ a {nums: 1123,
 a.clear()
 a
 
-# dict method
-a.pop(days)
-a
-
-
 #dict meth
 a {nums: 1123,
    days:1234}
 a={1:4465, 2:6767, 5:89787}
 a.get("nums")
+a.clear()
+a.pop()

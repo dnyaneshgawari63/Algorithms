@@ -116,4 +116,6 @@ a={1:4465, 2:6767, 5:89787}
 a.get("nums")
 a.clear()
 a.pop()
+a.popitem()
 a.get("days)
+    

@@ -16,12 +16,4 @@ def find_pair():
         else:
             right = right - 1
 
-find_pair()
 
-
-# above problem using class
-
-class Pair:
-    def __init__(self):
-        self.left = left
-        self.right = right

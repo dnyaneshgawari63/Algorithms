@@ -1,2 +1,1 @@
-class  Meta(type):
-     def __new__():
+class  a:

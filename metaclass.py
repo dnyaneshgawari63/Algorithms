@@ -3,3 +3,5 @@ class  A:
     a.self = a
     b.self = b
 
+def multi():
+  

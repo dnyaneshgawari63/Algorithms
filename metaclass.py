@@ -3,5 +3,6 @@ class  A:
     a.self = a
     b.self = b
 
-def multi():
+def multi(A):
+  return a *b
   

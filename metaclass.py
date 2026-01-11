@@ -5,4 +5,9 @@ class  A:
 
 def multi(A):
   return a *b
+
+def add(A):
+  return a+b
+
+# create inatance of class
   

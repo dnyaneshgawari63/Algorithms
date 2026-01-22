@@ -7,10 +7,3 @@ def decorator(func):
     return result
   return wrapper
 
-@decorator
-def myfunc():
-  return "original value"
-
-print(myfunc())
-print(myfunc())
-

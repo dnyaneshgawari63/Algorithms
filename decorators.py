@@ -12,4 +12,6 @@ def operate(a, b):
   pass
 
 operate(10,20)
+
+@dec2
     

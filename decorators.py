@@ -16,4 +16,5 @@ operate(10,20)
 @calc_decorator
 def string(a, b):
   pass a-b
-    
+
+String(a,b)    

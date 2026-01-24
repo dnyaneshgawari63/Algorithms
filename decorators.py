@@ -13,5 +13,7 @@ def operate(a, b):
 
 operate(10,20)
 
-@dec2
+@calc_decorator
+def string(a, b):
+  pass a-b
     

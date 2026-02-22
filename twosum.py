@@ -1,2 +1,3 @@
-def twosum():
-    
+def twosum(numbers):
+    for num in numbers:
+        num  = 

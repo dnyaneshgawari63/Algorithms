@@ -22,10 +22,10 @@ class Division(ArithmeticOperation):
 
 # Example
 add = Addition()
-print(f"Addition: {add.calculate(5,3)}") # Output: Addition: 8
+print(f"Addition: {add.calculate(5,3)}") 
 
 mult = Multiplication()
-print(f"Multiplication: {mult.calculate(10, 2)}") # Output: Multiplication: 20
+print(f"Multiplication: {mult.calculate(10, 2)}")
 
 div = Division()
 print(f"division: {div.calculate(34,4)}")

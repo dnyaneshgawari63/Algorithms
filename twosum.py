@@ -1,3 +1,3 @@
 def twosum(numbers):
-    for num in numbers:
-        num  = 
+    for num in len(range(numbers)):
+        if num > 

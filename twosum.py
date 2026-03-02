@@ -1,7 +1,12 @@
-<<<<<<< HEAD
-def two_sum_dict(): # using dictionary
-=======
-def twosum(numbers):
-    for num in len(range(numbers)):
-        if num > 
->>>>>>> 8f7e942886c8dc9e9f3239de0cbba1e47c1146b6
+def twosum(numbers, target):
+    pair = {}
+
+    for x, num in enumerate(numbers):
+        diff = target - num
+        if diff in pair:
+            return [pair[diff], x]
+        pair[num] = x
+
+numbers = 12,43,45,5,3,2,43,223,54,23
+target = 14
+print(twosum(numbers, target))

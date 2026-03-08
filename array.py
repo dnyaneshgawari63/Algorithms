@@ -118,4 +118,6 @@ a.clear()
 a.pop()
 a.popitem()
 a.get("days)
+
+# Finding repeats
     

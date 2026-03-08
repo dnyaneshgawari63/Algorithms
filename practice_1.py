@@ -1,0 +1,2 @@
+# proper string compression
+

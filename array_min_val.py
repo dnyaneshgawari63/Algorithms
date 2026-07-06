@@ -5,3 +5,5 @@ for x in arr:
   if x < lowest:
     lowest = x
 print(lowest)
+
+# Output: 6
